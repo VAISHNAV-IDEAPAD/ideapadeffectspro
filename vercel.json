@@ -1,4 +1,5 @@
 {
+  "name": "ideapadeffectspro",
   "framework": "vite",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
